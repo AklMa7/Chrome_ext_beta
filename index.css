@@ -1,0 +1,32 @@
+body{
+    margin: 10;
+    font-family :Arial, Helvetica, sans-serif ;
+
+
+}
+
+
+button{
+    border: none;
+    background-color: green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px ;
+    padding-right: 20px;
+
+}
+
+#input-btn {
+    font-weight: bold;
+    color: azure;
+    margin-top: 5px;
+}
+
+#input-el {
+    border-radius: 5px;
+    border: 3px solid green;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
